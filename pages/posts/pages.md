@@ -1,8 +1,8 @@
 ---
-title: Next.js Pages
-date: 2021/3/18
-description: Learn more about Next.js pages.
-tag: web development
+title: My First blog Post
+date: 2021/12/08
+description: Learn more about me and why I want this.
+tag: Personal
 author: You
 ---
 
